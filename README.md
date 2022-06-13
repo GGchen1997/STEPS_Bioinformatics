@@ -1,4 +1,4 @@
-# STEPS_NMI
+# STEPS_Bioinformatics
 
 
 ### Pretraining
