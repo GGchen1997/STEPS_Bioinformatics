@@ -1,5 +1,5 @@
 # STEPS_Bioinformatics
-we propose a novel **ST**rucure-awar**E** **P**rotein **S**elf-supervised Learning (**STEPS**) method.
+We propose a novel **ST**rucure-awar**E** **P**rotein **S**elf-supervised Learning (**STEPS**) method.
 
 ## Pretraining
 ```bash
